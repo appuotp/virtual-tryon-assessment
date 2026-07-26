@@ -111,7 +111,7 @@ A Gradio-based web application was developed to demonstrate the completed compon
 
 A demonstration video of the implementation has been recorded.
 
-Google Drive Link:
+Google Drive Link: https://drive.google.com/file/d/1LoVHW-5JGMHGos4tIiEG18TbZrpOGCZM/view?usp=sharing
 
 
 
