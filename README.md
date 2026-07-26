@@ -113,13 +113,13 @@ A demonstration video of the implementation has been recorded.
 
 Google Drive Link:
 
-*(Add your Google Drive video link here)*
+
 
 ---
 
 ## GitHub Repository
 
-*(Add your GitHub repository link here)*
+https://github.com/appuotp/virtual-tryon-assessment
 
 ---
 
