@@ -8,7 +8,7 @@ from PIL import Image
 # -------------------------------
 
 def load_q1():
-    json_path = "outputs/q1_result.json"
+    json_path = "outputs/q1_output.json"
 
     if os.path.exists(json_path):
         with open(json_path, "r") as f:
